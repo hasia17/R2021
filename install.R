@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("DALEX")
+install.packages("sf")
+install.packages("data.table")
+install.packages("readXL")
